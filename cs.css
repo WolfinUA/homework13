@@ -1,0 +1,73 @@
+.container {
+  width: 1280px;
+  position: relative;
+  margin: 0px auto;
+}
+body {
+  width: 100%;
+}
+.logo {
+  top: 25px;
+  position: absolute;
+}
+.l1{
+  position: absolute;
+  left: 878px;
+  margin-top: 43px;
+  font-size: 16px;
+  width: 84px;
+  border-right: 2px solid lightgrey;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+.l2{
+  position: absolute;
+  left: 994px;
+  width: 73px;
+  margin-top: 43px;
+  padding-left: 21.5px;
+  padding-right: 21.5px;
+  border-right: 2px solid lightgrey;
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+.l3{
+  position: absolute;
+  left: 1110px;
+  width: 47px;
+  padding-left: 34.5px;
+  padding-right: 34.5px;
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+  margin-top: 43px;
+  font-size: 16px;
+}
+.infa {
+  height: 170px;
+  text-align: center;
+  width: 880px;
+  margin: 0px auto;
+  font-family: cursive, fantasy;
+  font-variant: small-caps;
+}
+.author {
+  height: 120px;
+  text-align: center;
+  width: 1280px;
+  line-height: 120px;
+}
+.logo:hover {
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+img:hover {
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.menu {
+  padding-left: 164px;
+  height: 102px;
+}
